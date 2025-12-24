@@ -26,9 +26,9 @@ The project focuses on identifying high-engagement influencers, comparing perfor
 ---
 
 ## 📁 Project Files
-├── Top Instagram Influencer data(code).twb
-├── Tableau Project Report – Top Instagram Influencers Dashboard.pdf
-├── README.md
+ - Top Instagram Influencer data(code).twb
+ - Tableau Project Report – Top Instagram Influencers Dashboard.pdf
+ - README.md
 
 
 ---
